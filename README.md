@@ -20,7 +20,9 @@ also able to manage the unique id of each user and store the data corresponding 
 Hospital recommendation is also implemented in the application which takes user gps coordinate and display all the hospitals and their information nearby him.
 We have also implemented the data addition features by the user, where user can add relevant data in the database which will be added after verification
 by specialist.
-
+<img src="https://github.com/deepak728/Healthcare/blob/master/screenshots/30232961_1080908715382725_2143035180_o.png" width="300">
+<img src="https://github.com/deepak728/Healthcare/blob/master/screenshots/30550171_1080908672049396_2122292057_o.png" width="300">
+<img src="https://github.com/deepak728/Healthcare/blob/master/screenshots/30826251_1081008795372717_423569719_o.png" width="300">
 
 # Future Work 
 
